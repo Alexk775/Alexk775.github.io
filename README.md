@@ -1,2 +1,2 @@
-# https://alexk775.github.io/
+# alexk775.github.io
 Ασκηση 1
